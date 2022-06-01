@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Ahmad  👨‍💻 </h1>
 
 <p align='center'>
-  I am <b>MUSLIM</b>, I live in <b>JORDAN</b> 
+  I am a <b>MUSLIM</b>, I live in <b>JORDAN</b> 
 </p>
 
 <p align='center'>
