@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=AhmadAlwahsh??style=for-the-badge&logo=appveyor"></a>
+  <img src="https://ahmadalwahsh.netlify.app/static/media/logo.ec618e24db02daa7f573.png" alt="" />
 </p>
 
 
