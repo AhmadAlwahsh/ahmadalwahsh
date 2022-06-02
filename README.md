@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://ahmadalwahsh.netlify.app/static/media/logo.ec618e24db02daa7f573.png" alt="" />
+  <img src="https://ahmadalwahsh.netlify.app/static/media/logo.ec618e24db02daa7f573.png" width="200px" alt="" />
 </p>
 
 
